@@ -1,1 +1,1 @@
-# SSDP
+# SSDP (Sampling Stochastic Dynamic Programming)
