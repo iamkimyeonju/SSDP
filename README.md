@@ -1,3 +1,3 @@
 # SSDP (Sampling Stochastic Dynamic Programming)
 
-코딩 틀린거 찾을시 연락해주시면 아리가또
+This is the function code I wrote to calculate SSDP. The existing reservoir function of R package was referred to, and in the study, a modification process was performed to enable the linked use of SSDP/Hist and SSDP/ESP.
